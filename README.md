@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on `Laravel` / `Lumen` using `Microservice` / `Event Driven` Architecture & `Docker`
+- 🌱 I’m currently learning Vue.js
 <!--
 **huzaifaarain/huzaifaarain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
