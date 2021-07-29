@@ -1,10 +1,10 @@
 ### Hi there, I'm Huzaifa Arain 👋
 
 <a href="https://linkedin.com/in/huzaifaarain">
-  <img align="left" alt="Huzaifa Arain | LinkedIn" width="20px" src="https://raw.githubusercontent.com/huzaifaarain/huzaifaarain/master/assets/linkedin.png" />
+  <img align="left" alt="Huzaifa Arain | LinkedIn" width="25px" src="https://raw.githubusercontent.com/huzaifaarain/huzaifaarain/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.hackerrank.com/huzaifaarain">
-  <img align="left" alt="Huzaifa Arain | Hacker Rank" width="20px" src="https://raw.githubusercontent.com/huzaifaarain/huzaifaarain/master/assets/hackerrank.png" />
+  <img align="left" alt="Huzaifa Arain | Hacker Rank" width="25px" src="https://raw.githubusercontent.com/huzaifaarain/huzaifaarain/master/assets/hackerrank.svg" />
 </a>
 
 <br />
