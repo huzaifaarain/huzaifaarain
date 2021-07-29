@@ -34,9 +34,17 @@ Hi, I'm Huzaifa Arain, student of computer science from Pakistan 🇵🇰 .
 <a href="https://github.com/huzaifaarain/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=huzaifaarain&show_icons=true&include_all_commits=true&theme=material-palenight&count_private=true" alt="Huzaifa Arain's github stats" />
 </a>
+
+<br />
+<br />
+
 <a href="https://github.com/huzaifaarain/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifaarain&layout=compact&theme=material-palenight" />
 </a>
+
+<br />
+<br />
+
 <a href="https://github.com/huzaifaarain/huzaifaarain.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huzaifaarain&repo=huzaifaarain.github.io&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huzaifaarain&repo=LinuxFoundationX-LFS101x-Notes&theme=material-palenight" />
 </a>
