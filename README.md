@@ -1,5 +1,11 @@
 ### Hi there, I'm Huzaifa Arain 👋
 
+<br/>
+<br/>
+<code><img height="150" src="assets/jsnad-openjs-node-js-application-developer.png"></code>
+<code><img height="150" src="assets/lfw211-node-js-application-development.png"></code>
+<br/>
+<br/>
 <a href="https://linkedin.com/in/huzaifaarain">
   <img align="left" alt="Huzaifa Arain | LinkedIn" width="25px" src="https://raw.githubusercontent.com/huzaifaarain/huzaifaarain/master/assets/linkedin.png" />
 </a>
@@ -7,13 +13,7 @@
   <img align="left" alt="Huzaifa Arain | Hacker Rank" width="25px" src="https://raw.githubusercontent.com/huzaifaarain/huzaifaarain/master/assets/hackerrank.png" />
 </a>
 
-<br/>
-<br/>
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="15dee29f-cb71-42ac-b7be-78874a367d59" data-share-badge-host="https://www.credly.com"></div>|<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="55f41373-e6b8-49ee-a518-557b8c327fa3" data-share-badge-host="https://www.credly.com"></div>
-
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
+<br />
 <br />
 
 Hi, I'm Huzaifa Arain, student of computer science from Pakistan 🇵🇰 .
