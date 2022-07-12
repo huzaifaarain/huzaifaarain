@@ -7,7 +7,13 @@
   <img align="left" alt="Huzaifa Arain | Hacker Rank" width="25px" src="https://raw.githubusercontent.com/huzaifaarain/huzaifaarain/master/assets/hackerrank.png" />
 </a>
 
-<br />
+<br/>
+<br/>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="15dee29f-cb71-42ac-b7be-78874a367d59" data-share-badge-host="https://www.credly.com"></div>|<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="55f41373-e6b8-49ee-a518-557b8c327fa3" data-share-badge-host="https://www.credly.com"></div>
+
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 <br />
 
 Hi, I'm Huzaifa Arain, student of computer science from Pakistan 🇵🇰 .
@@ -15,7 +21,7 @@ Hi, I'm Huzaifa Arain, student of computer science from Pakistan 🇵🇰 .
 - 🔭 I’m currently working on PHP/MySQL, Laravel, Linux Administration, Docker, Microservice & Monolithic Architect
 - 🌱 I’m currently learning NodeJS
 
-**Languages and Tools:**  
+**Languages, Frameworks, Operating System and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
@@ -48,3 +54,12 @@ Hi, I'm Huzaifa Arain, student of computer science from Pakistan 🇵🇰 .
 <a href="https://github.com/huzaifaarain/huzaifaarain.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huzaifaarain&repo=LinuxFoundationX-LFS101x-Notes&theme=material-palenight" />
 </a>
+
+<br />
+<br />
+
+<p align="center">
+<a href="https://github.com/codeqasim/">
+<img width="170px" height="24" src="https://profile-counter.glitch.me/huzaifaarain/count.svg" alt="huzaifaarain" />
+</a> </p>
+<br>
