@@ -1,4 +1,4 @@
-### Hi there, I'm Huzaifa Arain 👋
+### Hi there, I'm Huzaifa 👋
 
 <br/>
 <br/>
