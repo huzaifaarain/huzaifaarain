@@ -16,7 +16,7 @@
 <br />
 <br />
 
-Hi, I'm Huzaifa Arain, student of computer science from Pakistan 🇵🇰 .
+Hi, I'm Huzaifa, student of computer science from Pakistan 🇵🇰 .
 
 - 🔭 I’m currently working on PHP/MySQL, Laravel, Linux Administration, Docker, Microservice & Monolithic Architect
 - 🌱 I’m currently learning NodeJS
