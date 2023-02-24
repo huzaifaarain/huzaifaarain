@@ -18,8 +18,7 @@
 
 Hi, I'm Huzaifa, student of computer science from Pakistan 🇵🇰 .
 
-- 🔭 I’m currently working on PHP/MySQL, Laravel, Linux Administration, Docker, Microservice & Monolithic Architect
-- 🌱 I’m currently learning NodeJS
+- 🔭 Working on PHP/MySQL, Laravel, WordPress, JavaScript, NodeJS, Vue 3, Linux Administration, Docker, Microservice & Monolithic Architect
 
 **Languages, Frameworks, Operating System and Tools:**  
 
