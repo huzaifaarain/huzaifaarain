@@ -51,7 +51,10 @@ Hi, I'm Huzaifa, student of computer science from Pakistan 🇵🇰 .
 <br />
 
 <a href="https://github.com/huzaifaarain/huzaifaarain.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huzaifaarain&repo=LinuxFoundationX-LFS101x-Notes&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=laravel&repo=framework&theme=material-palenight" />
+</a>
+<a href="https://github.com/huzaifaarain/huzaifaarain.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=laravel&repo=laravel&theme=material-palenight" />
 </a>
 
 <br />
