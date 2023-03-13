@@ -56,6 +56,33 @@ Hi, I'm Huzaifa, student of computer science from Pakistan 🇵🇰 .
 <a href="https://github.com/huzaifaarain/huzaifaarain.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=laravel&repo=laravel&theme=material-palenight" />
 </a>
+<a href="https://github.com/huzaifaarain/huzaifaarain.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=laravel&repo=ui&theme=material-palenight" />
+</a>
+<a href="https://github.com/huzaifaarain/huzaifaarain.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=laravel&repo=sanctum&theme=material-palenight" />
+</a>
+<a href="https://github.com/huzaifaarain/huzaifaarain.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=laravel&repo=passport&theme=material-palenight" />
+</a>
+<a href="https://github.com/huzaifaarain/huzaifaarain.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=laravel&repo=breeze&theme=material-palenight" />
+</a>
+<a href="https://github.com/huzaifaarain/huzaifaarain.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=laravel&repo=telescope&theme=material-palenight" />
+</a>
+<a href="https://github.com/huzaifaarain/huzaifaarain.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=laravel&repo=cashier-stripe&theme=material-palenight" />
+</a>
+<a href="https://github.com/huzaifaarain/huzaifaarain.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=laravel&repo=socialite&theme=material-palenight" />
+</a>
+<a href="https://github.com/huzaifaarain/huzaifaarain.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yajra&repo=laravel-datatables&theme=material-palenight" />
+</a>
+<a href="https://github.com/huzaifaarain/huzaifaarain.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=barryvdh&repo=laravel-debugbar&theme=material-palenight" />
+</a>
 
 <br />
 <br />
