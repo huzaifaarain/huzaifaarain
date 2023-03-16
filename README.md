@@ -1,4 +1,4 @@
-### Hi there, I'm Huzaifa 👋
+### Hi there, I'm Muhammad Huzaifa 👋
 
 <br/>
 <br/>
@@ -16,7 +16,7 @@
 <br />
 <br />
 
-Hi, I'm Huzaifa, student of computer science from Pakistan 🇵🇰 .
+Hi, I'm Muhammad Huzaifa, student of computer science from Pakistan 🇵🇰 .
 
 - 🔭 Working on PHP/MySQL, Laravel, WordPress, JavaScript, NodeJS, Vue 3, Linux Administration, Docker, Microservice & Monolithic Architect
 
