@@ -88,7 +88,7 @@ Hi, I'm Muhammad Huzaifa, student of computer science from Pakistan 🇵🇰 .
 <br />
 
 <p align="center">
-<a href="https://github.com/codeqasim/">
+<a href="https://github.com/huzaifaarain/">
 <img width="170px" height="24" src="https://profile-counter.glitch.me/huzaifaarain/count.svg" alt="huzaifaarain" />
 </a> </p>
 <br>
