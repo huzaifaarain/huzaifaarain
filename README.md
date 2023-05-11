@@ -56,7 +56,7 @@ Hi, I'm Muhammad Huzaifa, student of computer science from Pakistan 🇵🇰 .
 <a href="https://github.com/laravel/laravel">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=laravel&repo=laravel&theme=material-palenight" />
 </a>
-<a href="https://github.com/huzaifaarain/huzaifaarain.github.io">
+<a href="https://github.com/laravel/ui">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=laravel&repo=ui&theme=material-palenight" />
 </a>
 <a href="https://github.com/laravel/sanctum">
