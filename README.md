@@ -19,23 +19,19 @@ SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=24&
         to exchange ideas about the latest in software development and technology. Let's innovate together! </p>
     <div>
         <a href="https://www.muhammadhuzaifa.pro" target="_blank">
-            <img src="https://img.shields.io/badge/🌐-Muhammad Huzaifa-blue?style=for-the-badge" alt="LinkedIn" />
+            <img src="https://img.shields.io/badge/🌐-Muhammad Huzaifa-blue?style=for-the-badge" />
         </a>
         <a href="https://www.linkedin.com/in/mhuzaifacs" target="_blank">
-            <img src="https://img.shields.io/badge/Muhammad Huzaifa-blue?style=for-the-badge&logo=linkedin"
-                alt="LinkedIn" />
+            <img src="https://img.shields.io/badge/Muhammad Huzaifa-blue?style=for-the-badge&logo=linkedin" />
         </a>
         <a href="https://x.com/@mhuzaifacs" target="_blank">
-            <img src="https://img.shields.io/badge/Muhammad Huzaifa-white?style=for-the-badge&logo=twitter"
-                alt="DEV Community Profile" />
+            <img src="https://img.shields.io/badge/Muhammad Huzaifa-white?style=for-the-badge&logo=twitter" />
         </a>
         <a href="https://laracasts.com/@mhuzaifacs" target="_blank">
-            <img src="https://img.shields.io/badge/Laracasts-Muhammad Huzaifa-blue?style=for-the-badge"
-                alt="DEV Community Profile" />
+            <img src="https://img.shields.io/badge/Laracasts-Muhammad Huzaifa-blue?style=for-the-badge" />
         </a>
         <a href="https://laradir.com/developers/c3ee7917-3e30-4800-a431-87f86d324882" target="_blank">
-            <img src="https://img.shields.io/badge/Laradir-Muhammad Huzaifa-blue?style=for-the-badge"
-                alt="DEV Community Profile" />
+            <img src="https://img.shields.io/badge/Laradir-Muhammad Huzaifa-blue?style=for-the-badge" />
         </a>
     </div>
 </div>
