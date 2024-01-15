@@ -1,94 +1,143 @@
-### Hi there, I'm Muhammad Huzaifa 👋
+[![Typing
+SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=24&pause=1000&color=5162FF&random=false&width=600&lines=Hey+there%2C+I+am+Muhammad+Huzaifa)](https://git.io/typing-svg)
 
-<br/>
-<br/>
-<code><img height="150" src="assets/jsnad-openjs-node-js-application-developer.png"></code>
-<code><img height="150" src="assets/lfw211-node-js-application-development.png"></code>
-<br/>
-<br/>
-<a href="https://linkedin.com/in/huzaifaarain">
-  <img align="left" alt="Huzaifa Arain | LinkedIn" width="25px" src="https://raw.githubusercontent.com/huzaifaarain/huzaifaarain/master/assets/linkedin.png" />
-</a>
-<a href="https://www.hackerrank.com/huzaifaarain">
-  <img align="left" alt="Huzaifa Arain | Hacker Rank" width="25px" src="https://raw.githubusercontent.com/huzaifaarain/huzaifaarain/master/assets/hackerrank.png" />
-</a>
+<div align="center">
+    <h2>✍ Solutions Architect | 👨‍💻 Lead Software Engineer | 🚀 PHP | 💪 Laravel | 👌 Symfony | 🏆 Linux Certified |
+        🏆 NodeJS Certified | 👌 Docker | 🚀 Open Source Contributor</h2>
+    <p>
+        <img src="assets/lfw211-node-js-application-development.png" width="300">
+        <img src="assets/jsnad-openjs-node-js-application-developer.png" width="300">
+    </p>
+    <p>A seasoned Software Engineer with over a decade of expertise in PHP, specializing in Laravel, and certified as a
+        NodeJS Developer by the OpenJS Foundation.</p>
+</div>
 
-<br />
-<br />
+<div align="center">
+    <h2 class="section-heading">🌐 Connect with Me</h2>
+    <p> To connect with me, you can find my professional profile and contact details on LinkedIn, or explore more about
+        my projects and interests through my Linktree. Feel free to reach out for collaborations, opportunities, or just
+        to exchange ideas about the latest in software development and technology. Let's innovate together! </p>
+    <div>
+        <a href="https://www.muhammadhuzaifa.pro" target="_blank">
+            <img src="https://img.shields.io/badge/🌐-Muhammad Huzaifa-blue?style=for-the-badge" alt="LinkedIn" />
+        </a>
+        <a href="https://www.linkedin.com/in/mhuzaifacs" target="_blank">
+            <img src="https://img.shields.io/badge/Muhammad Huzaifa-blue?style=for-the-badge&logo=linkedin"
+                alt="LinkedIn" />
+        </a>
+        <a href="https://x.com/@mhuzaifacs" target="_blank">
+            <img src="https://img.shields.io/badge/Muhammad Huzaifa-white?style=for-the-badge&logo=twitter"
+                alt="DEV Community Profile" />
+        </a>
+        <a href="https://laracasts.com/@mhuzaifacs" target="_blank">
+            <img src="https://img.shields.io/badge/Laracasts-Muhammad Huzaifa-blue?style=for-the-badge"
+                alt="DEV Community Profile" />
+        </a>
+        <a href="https://laradir.com/developers/c3ee7917-3e30-4800-a431-87f86d324882" target="_blank">
+            <img src="https://img.shields.io/badge/Laradir-Muhammad Huzaifa-blue?style=for-the-badge"
+                alt="DEV Community Profile" />
+        </a>
+    </div>
+</div>
 
-Hi, I'm Muhammad Huzaifa, student of computer science from Pakistan 🇵🇰 .
+<div align="center">
+    <h2 class="section-heading">Core Expertise</h2>
+    <p>
+        <img src="https://img.shields.io/badge/PHP-0?style=for-the-badge&logo=php&color=white" />
+        <img src="https://img.shields.io/badge/Laravel-0?logo=laravel&style=for-the-badge&color=white" />
+        <img src="https://img.shields.io/badge/mysql-0?style=for-the-badge&logo=mysql&color=white" />
+        <img src="https://img.shields.io/badge/javascript-0?style=for-the-badge&logo=javascript&color=white" />
+        <img src="https://img.shields.io/badge/nodejs-0?style=for-the-badge&logo=node.js&color=white" />
+        <img src="https://img.shields.io/badge/html5-0?style=for-the-badge&logo=html5&color=white" />
+        <img src="https://img.shields.io/badge/css3-0?style=for-the-badge&logo=css3&color=white&logoColor=yellow" />
+    </p>
+</div>
+<div align="center">
+    <h2 class="section-heading">Cloud Technologies</h2>
+    <p>
+        <img src="https://img.shields.io/badge/AWS-0?style=for-the-badge&logo=AmazonAWS&color=white&logoColor=yellow" />
+        <img
+            src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=Google%20Cloud&logoColor=blue&color=white" />
+        <img src="https://img.shields.io/badge/docker-0?style=for-the-badge&logo=docker&color=white&logoColor=blue" />
+    </p>
+</div>
+<div align="center">
+    <h2 class="section-heading">Operating Systems</h2>
+    <p>
+        <img src="https://img.shields.io/badge/ubuntu-0?style=for-the-badge&logo=ubuntu&color=white" />
+        <img src="https://img.shields.io/badge/Debian-0?style=for-the-badge&logo=Debian&color=white&logoColor=blue" />
+        <img src="https://img.shields.io/badge/centos-0?style=for-the-badge&logo=centos&color=white&logoColor=blue" />
+    </p>
+</div>
+<div align="center">
+    <h2 class="section-heading">Frameworks/Libraries/Tools</h2>
+    <p>
+        <img src="https://img.shields.io/badge/vue.js-0?style=for-the-badge&logo=vuedotjs&color=white" />
+        <img src="https://img.shields.io/badge/react.js-0?logo=react&style=for-the-badge&color=white" />
+        <img src="https://img.shields.io/badge/inertia.js-0?style=for-the-badge&color=white" />
+        <img src="https://img.shields.io/badge/livewire 3-0?style=for-the-badge&color=white" />
+        <img
+            src="https://img.shields.io/badge/shopify app development-0?style=for-the-badge&logo=shopify&color=white" />
+        <img src="https://img.shields.io/badge/bootstrap-0?style=for-the-badge&logo=bootstrap&color=white" />
+        <img src="https://img.shields.io/badge/tailwind-0?style=for-the-badge&logo=tailwindcss&color=white" />
+        <img src="https://img.shields.io/badge/git-0?style=for-the-badge&logo=git&color=white" />
+        <img src="https://img.shields.io/badge/github-0?style=for-the-badge&logo=github&color=white&logoColor=black" />
+        <img
+            src="https://img.shields.io/badge/bitbucket-0?style=for-the-badge&logo=bitbucket&color=white&logoColor=blue" />
+        <img
+            src="https://img.shields.io/badge/visual studio code-0?style=for-the-badge&logo=visualstudiocode&color=white&logoColor=blue" />
+        <img src="https://img.shields.io/badge/npm-0?style=for-the-badge&logo=npm&color=white&logoColor=red" />
+        <img src="https://img.shields.io/badge/webpack-0?style=for-the-badge&logo=webpack&color=white" />
+        <img src="https://img.shields.io/badge/vite-0?style=for-the-badge&logo=vite&color=white" />
+    </p>
+</div>
+<div align="center">
+    <h2 class="section-heading">API Integrations</h2>
+    <p>
+        <img src="https://img.shields.io/badge/stripe-0?style=for-the-badge&logo=stripe&color=white" />
+        <img src="https://img.shields.io/badge/paypal-0?logo=paypal&style=for-the-badge&color=white" />
+        <img src="https://img.shields.io/badge/SAP-0?style=for-the-badge&color=white&logo=sap" />
+        <img src="https://img.shields.io/badge/GraphQL-0?style=for-the-badge&color=white&logo=graphql&logoColor=blue" />
+        <img src="https://img.shields.io/badge/HubSpot-0?style=for-the-badge&color=white&logo=hubspot" />
+    </p>
+</div>
 
-- 🔭 Working on PHP/MySQL, Laravel, WordPress, JavaScript, NodeJS, Vue 3, Linux Administration, Docker, Microservice & Monolithic Architect
+<p>
+<h2 class="section-heading">Author of <a href="https://github.com/huzaifaarain/telescope-guzzle-watcher"
+        target="_blank">Laravel Telescope
+        Guzzle Watcher</a></h2>
+<img src="assets/laravel-telescope-guzzle-watcher.jpg" width="100%" />
+</p>
 
-**Languages, Frameworks, Operating System and Tools:**  
+![Profile
+Detail](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huzaifaarain&theme=github)
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/linux/linux.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+![Top Languages By
+Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huzaifaarain&theme=github)
+![Top Languages By
+Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=huzaifaarain&theme=github)
 
-<a href="https://github.com/huzaifaarain/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=huzaifaarain&show_icons=true&include_all_commits=true&theme=material-palenight&count_private=true" alt="Huzaifa Arain's github stats" />
-</a>
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=huzaifaarain&theme=github)
+![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=huzaifaarain&theme=github&utcOffset=5)
 
-<br />
-<br />
-
-<a href="https://github.com/huzaifaarain/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifaarain&layout=compact&theme=material-palenight" />
-</a>
-
-<br />
-<br />
-
-<a href="https://github.com/laravel/framework">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=laravel&repo=framework&theme=material-palenight" />
-</a>
-<a href="https://github.com/laravel/laravel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=laravel&repo=laravel&theme=material-palenight" />
-</a>
-<a href="https://github.com/laravel/ui">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=laravel&repo=ui&theme=material-palenight" />
-</a>
-<a href="https://github.com/laravel/sanctum">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=laravel&repo=sanctum&theme=material-palenight" />
-</a>
-<a href="https://github.com/laravel/passport">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=laravel&repo=passport&theme=material-palenight" />
-</a>
-<a href="https://github.com/laravel/breeze">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=laravel&repo=breeze&theme=material-palenight" />
-</a>
-<a href="https://github.com/laravel/telescope">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=laravel&repo=telescope&theme=material-palenight" />
-</a>
-<a href="https://github.com/laravel/cashier-stripe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=laravel&repo=cashier-stripe&theme=material-palenight" />
-</a>
-<a href="https://github.com/laravel/socialite">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=laravel&repo=socialite&theme=material-palenight" />
-</a>
-<a href="https://github.com/yajra/laravel-datatables">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yajra&repo=laravel-datatables&theme=material-palenight" />
-</a>
-<a href="https://github.com/barryvdh/laravel-debugbar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=barryvdh&repo=laravel-debugbar&theme=material-palenight" />
-</a>
-
-<br />
-<br />
-
-<p align="center">
-<a href="https://github.com/huzaifaarain/">
-<img width="170px" height="24" src="https://profile-counter.glitch.me/huzaifaarain/count.svg" alt="huzaifaarain" />
-</a> </p>
-<br>
+<div>
+    <p>
+    <h2>🎓 Education:</h2>
+    <ul>
+        <li>👨‍🎓 Currently pursuing M.Phil in Computer Science (expected completion in 2025) at the National
+            University
+            of
+            Computer and Emerging Sciences.</li>
+        <li>👨‍🎓 Holds a Bachelor's degree in Computer Science from Preston University Karachi (2018).</li>
+        <li>
+            💪 Interested in Software Architecture, Design Patterns, and Multi-Tenancy SAAS Architecture
+        </li>
+    </ul>
+    </p>
+    <h2>🏆 Certifications:</h2>
+    <ul>
+        <li>📄 Certified in Node.js Application Development by The Linux Foundation.</li>
+        <li>📄 Awarded the LiFT Scholarship (The Linux Foundation) in 2021.</li>
+    </ul>
+    </p>
+</div>
