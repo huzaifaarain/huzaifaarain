@@ -27,7 +27,7 @@ SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=24&
         <a href="https://x.com/@mhuzaifacs" target="_blank">
             <img src="https://img.shields.io/badge/Muhammad Huzaifa-white?style=for-the-badge&logo=twitter" />
         </a>
-        <a href="https://laracasts.com/@mhuzaifacs" target="_blank">
+        <a href="https://laracasts.com/@muhammadhuzaifa" target="_blank">
             <img src="https://img.shields.io/badge/Laracasts-Muhammad Huzaifa-blue?style=for-the-badge" />
         </a>
         <a href="https://laradir.com/developers/c3ee7917-3e30-4800-a431-87f86d324882" target="_blank">
