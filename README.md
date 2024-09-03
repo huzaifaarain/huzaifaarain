@@ -3,7 +3,7 @@ SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=24&
 
 <div align="center">
     <h2>✍ Laracasts Laravel Architect | 👨‍💻 Lead Software Engineer | 🚀 PHP | 💪 Laravel | 👌 Symfony | 🏆 Linux Certified |
-        🏆 NodeJS Certified | 👌 Docker | 🚀 Open Source Contributor</h2>
+        🏆 NodeJS Certified | 👌 Docker | 🚀 Open Source Contributor | 📣 Laravel Live Pakistan Speaker</h2>
     <p>
         <img src="assets/lfw211-node-js-application-development.png" width="300">
         <img src="assets/jsnad-openjs-node-js-application-developer.png" width="300">
