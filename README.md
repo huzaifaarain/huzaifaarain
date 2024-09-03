@@ -2,7 +2,7 @@
 SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=24&pause=1000&color=5162FF&random=false&width=600&lines=Hey+there%2C+I+am+Muhammad+Huzaifa)](https://git.io/typing-svg)
 
 <div align="center">
-    <h2>✍ Solutions Architect | 👨‍💻 Lead Software Engineer | 🚀 PHP | 💪 Laravel | 👌 Symfony | 🏆 Linux Certified |
+    <h2>✍ Laracasts Laravel Architect | 👨‍💻 Lead Software Engineer | 🚀 PHP | 💪 Laravel | 👌 Symfony | 🏆 Linux Certified |
         🏆 NodeJS Certified | 👌 Docker | 🚀 Open Source Contributor</h2>
     <p>
         <img src="assets/lfw211-node-js-application-development.png" width="300">
