@@ -3,10 +3,10 @@ SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=24&
 
 <div align="center">
     <h2>Laravel Live 🇵🇰 Speaker<br/><br/>
-Full Stack Laracasts Laravel Architect<br/><br/>
+💬 Full Stack Laracasts Laravel Architect<br/><br/>
 LAMP, TALL, VILT, & RILT Stacks<br/><br/>
 SaaS Single/Multi Tenancy Architect<br/><br/>
-AI/API/Data Integrations<br/><br/>
+🧑‍💻 AI/API/Data Integrations<br/><br/>
 MySQL, SQLite, & MongoDB<br/><br/>
 DevOps</h2>
     <p>
