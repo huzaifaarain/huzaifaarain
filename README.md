@@ -2,12 +2,12 @@
 SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=24&pause=1000&color=5162FF&random=false&width=600&lines=Hey+there%2C+I+am+Muhammad+Huzaifa)](https://git.io/typing-svg)
 
 <div align="center">
-    <h2>Laravel Live 🇵🇰 Speaker<br/>
-Full Stack Laracasts Laravel Architect<br/>
-LAMP, TALL, VILT, & RILT Stacks<br/>
-SaaS Single/Multi Tenancy Architect<br/> 
-AI/API/Data Integrations<br/>
-MySQL, SQLite, & MongoDB<br/>
+    <h2>Laravel Live 🇵🇰 Speaker<br/><br/>
+Full Stack Laracasts Laravel Architect<br/><br/>
+LAMP, TALL, VILT, & RILT Stacks<br/><br/>
+SaaS Single/Multi Tenancy Architect<br/><br/>
+AI/API/Data Integrations<br/><br/>
+MySQL, SQLite, & MongoDB<br/><br/>
 DevOps</h2>
     <p>
         <img src="assets/lfw211-node-js-application-development.png" width="300">
